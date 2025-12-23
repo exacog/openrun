@@ -1,0 +1,23 @@
+[project]
+name = "openrun"
+version = "0.0.1"
+description = "A flexible, LLM-agnostic engine for orchestrating AI agents and complex conversational automation behind the firewall."
+readme = "README.md"
+authors = [
+    { name = "David Hariri", email = "david@ada.cx" }
+]
+requires-python = ">=3.12"
+dependencies = []
+license = { file = "LICENSE" }
+keywords = ["ai", "agents", "llm", "automation", "orchestration"]
+
+[project.urls]
+Repository = "https://github.com/exacog/openrun"
+Issues = "https://github.com/exacog/openrun/issues"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = ["pytest", "ruff"]
