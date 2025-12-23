@@ -1,2 +1,3 @@
-# openrun
-An open (source available) LLM orchestration library with eval'd Agent primitives, tracing, and free choice of LLM
+# OpenRun
+
+A flexible, LLM-agnostic engine for orchestrating AI agents and complex conversational automation behind the firewall.
