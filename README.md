@@ -1,5 +1,8 @@
 # OpenRun
 
+> [!IMPORTANT]  
+> OpenRun is currently in its early stages of development and not ready for production use yet.
+
 A flexible, LLM-agnostic engine for orchestrating AI agents and complex conversational automation behind the firewall.
 
 ## Development
