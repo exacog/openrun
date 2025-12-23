@@ -1,6 +1,6 @@
 [project]
 name = "openrun"
-version = "0.0.1"
+version = "0.0.2"
 description = "A flexible, LLM-agnostic engine for orchestrating AI agents and complex conversational automation behind the firewall."
 readme = "README.md"
 authors = [
